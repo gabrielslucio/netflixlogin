@@ -25,12 +25,13 @@ const Netflix = () => {
                         <p>Crianças</p>
                         <p>Adicionar perfil</p>
                     </div>
-                    <div className="app__login-btn">
+                    
+                </div>
+                <div className="app__login-btn">
                         <button type="button">
                             Gerir perfis
                         </button>
                     </div>
-                </div>
             </section>            
         </div>
     );
